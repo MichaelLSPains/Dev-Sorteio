@@ -18,9 +18,11 @@ img {
 }
 
 h2 {
+    display:inline-block;
     color: #fff;
     margin-top: 126px;
     margin-left: 865px;
+    margin-right: auto;
     font-size: 32px;
     font-weight: 400;
     margin-bottom: 25px;
